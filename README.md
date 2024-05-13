@@ -62,6 +62,7 @@
     <header>
         <h1>Dr. Andy Moore</h1>
         <p>Chief Data Officer at Bentley Motors</p>
+         <img src="IMG_0304.jpg" alt="Dr. Andy Moore">
     </header>
     <nav>
         <a href="#about">About Me</a>
